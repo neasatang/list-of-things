@@ -6,4 +6,5 @@ things i want to do ✨
 - [ ] iOS app to keep track of mood
 - [ ] complete re-do of my website
 - [ ] do more hackerrank/leetcode questions
-- [ ] simple web app where if you search a user it displays the song that they're playing, if they're playing at all
+- [ ] simple web app where if you search a user it displays the song that they're playing on Spoofy, if they're playing at all
+- [ ] calculator for EOY results by ECTs
